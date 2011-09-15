@@ -1,3 +1,4 @@
+/*asdfghjkl*/
 <?php
 /**
  * MySQL connection check
